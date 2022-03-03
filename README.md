@@ -1,2 +1,2 @@
 # blogapi
- Gerador de api de dados de um blog qualquer.
+ CRUD de api de dados de um blog qualquer.
